@@ -1,0 +1,4 @@
+pycaret==2.3.2
+streamlit==0.85.0
+pandas==1.2.4
+numpy==1.19.5
